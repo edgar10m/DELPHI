@@ -18,7 +18,7 @@ object Form4: TForm4
     Top = 32
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = 'BOTON UNO'
     TabOrder = 0
   end
   object Button2: TButton
@@ -26,7 +26,7 @@ object Form4: TForm4
     Top = 80
     Width = 75
     Height = 25
-    Caption = 'Button2'
+    Caption = 'BOTON 2'
     TabOrder = 1
   end
 end
